@@ -10,3 +10,7 @@ python manage.py runserver</code></pre>
 -	Got to the below url to check for accessing the pages
 <pre><code>http://127.0.0.1:8000/weather/weatherstation1- weatherstation2- weatherstation3/longtitude/lattitude</code></pre>
 
+![Weather Image 1 Channels ](https://github.com/MounishKokkula/DjangoRestWeatherApi/blob/master/screenshots/onechannel.JPG)
+![Weather Image 2 Channels ](https://github.com/MounishKokkula/DjangoRestWeatherApi/blob/master/screenshots/2Channels.JPG)
+![Weather Image All Channels ](https://github.com/MounishKokkula/DjangoRestWeatherApi/blob/master/screenshots/AllChannels.JPG)
+![Weather Image invalid URL ](https://github.com/MounishKokkula/DjangoRestWeatherApi/blob/master/screenshots/invalidURLhandling.JPG)
