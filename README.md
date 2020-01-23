@@ -2,6 +2,7 @@
 
 ## Steps to execute the program
 -	Check to see if the mock-weather-api is available on http://127.0.0.1:5000/
+ https://github.com/otterlogic/mock-weather-api
 -	Execute the below commands in command line/powershell
 <pre><code>cd /path/to/zipfile/shipwell_restApi
 python manage.py runserver</code></pre>
